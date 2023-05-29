@@ -1,0 +1,2 @@
+# JavaPratik20_UsluSayiHesaplayanProgram
+Üssü Sayıyı Hesaplayan Program
